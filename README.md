@@ -10,7 +10,7 @@ Zirconium is a **server-side** Minecraft mod designed to enhance performance by 
 
 ## Features
 
-- **Multithreaded Chunk Loading:** Efficiently handles chunk loading across multiple threads to minimize server lag.
+- **Multithreaded Chunk Loading:** Efficiently handles chunk loading across multiple threads to minimize lag.
 - **Optimized Terrain Generation:** Enhances the speed and efficiency of terrain generation processes.
 - **Biome Processing:** Streamlines biome processing to ensure smooth transitions and performance.
 - **Server-Side Only:** Operates exclusively on the server, requiring no client-side installations.
