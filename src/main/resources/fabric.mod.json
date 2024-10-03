@@ -3,7 +3,7 @@
 	"id": "zirconium",
 	"version": "1.0a",
 	"name": "Zirconium",
-	"description": "Zirconium boosts Minecraft server performance by multithreading chunk and terrain generation, reducing lag for smoother gameplay.",
+	"description": "Zirconium boosts Minecraft performance by multithreading chunk and terrain generation, reducing lag for smoother gameplay.",
 	"authors": [
 		"Kubik"
 	],
